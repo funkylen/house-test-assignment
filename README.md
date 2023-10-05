@@ -1,6 +1,6 @@
-# House Test Assignment
+# E-commerce shop API.
 
-eCommerce shop
+_House_ Test Assignment from: [Hexlet Ru Test Assigments](https://github.com/Hexlet/ru-test-assignments)
 
 ## Requirements
 * PHP 8.2
